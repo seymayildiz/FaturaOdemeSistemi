@@ -1,0 +1,59 @@
+﻿body {
+    margin:0;
+    padding:0;
+    background-color:#fff;
+}
+.banner
+{
+       background-color:#fff;
+    border-bottom:#1e1d1d;
+    box-shadow: 0px 1px 15px 0px rgba(0,0,0,0.75);
+    width:100%;
+}
+.logo
+{
+    float: left;
+}
+.logo img #resim-logo
+{
+    height:150px;
+    margin-left:50px;
+}
+.logo-banner
+{
+    width: 41%;
+    height:50px;
+    float:left;
+
+}
+    .logo-banner img
+    {
+        height: 150px;
+        margin-top:30px;
+    }
+.menu
+{
+  
+}
+ul
+{
+       float: right;
+    margin-top: -44px;
+    margin-right: 30px;
+}
+ul a
+{
+   color :#1e1d1d;
+
+}
+ul a li
+{
+   float: left;
+    padding: 10px;
+    text-decoration: none;
+    list-style: none;
+}
+ul a li:hover
+{
+    border-bottom:4px solid #ff6a00;
+}

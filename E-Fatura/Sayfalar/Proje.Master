@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Proje.master.cs" Inherits="E_Fatura.Sayfalar.Proje" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="../Stiller/MasterPage.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <style>
+
+            .cikis {
+                border: 0;
+                background-color: #ffffff;
+                height: 20px;
+                width: 78px;
+                padding: 0px;
+                font-size: 12px;
+            }
+            .cikis:hover {
+            }
+        </style>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <div class="banner">
+            <div class="logo">
+            <img id="resim-logo" src="../img/efatura.jpg" />
+               
+            </div>
+            <div class="logo-banner">
+ <img  src="../img/Banner.png" />
+            </div>
+              <div style="clear:both"></div>
+            <div class="menu">
+                <ul>
+                    <a href="Anasayfa.aspx"><li>ANASAYFA</li></a>
+                     <a href="AboneSu.aspx"><li>SU FATURASI</li></a>
+                     <a href="AboneDogalgaz.aspx"><li>DOĞALGAZ FATURASI</li></a>
+                    <a href ="Anasayfa.aspx"><li><asp:Button ID="cikis" CssClass="cikis" runat="server" Text="Çıkış" OnClick="cikis_Click" />   </li></a>
+                </ul>
+            </div>
+        </div>
+      
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

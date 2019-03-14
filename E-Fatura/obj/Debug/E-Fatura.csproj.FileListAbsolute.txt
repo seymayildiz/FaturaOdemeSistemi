@@ -1,0 +1,102 @@
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\E-Fatura.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\E-Fatura.pdb
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.Core.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\EntityFramework.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\System.Web.Providers.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\EntityFramework.xml
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.Core.xml
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\obj\Debug\E-Fatura.csprojResolveAssemblyReference.cache
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\obj\Debug\E-Fatura.dll
+C:\Users\süleyman\Desktop\Fatura Ödeme Projesi\E-Fatura\E-Fatura\obj\Debug\E-Fatura.pdb
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\E-Fatura.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\E-Fatura.pdb
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.Core.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\EntityFramework.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\System.Web.Providers.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\EntityFramework.xml
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.Core.xml
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\obj\Debug\E-Fatura.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\obj\Debug\E-Fatura.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\obj\Debug\E-Fatura.pdb
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\ExcelLibrary.dll
+C:\Users\Lenovo\Music\Desktop\E-Fatura\E-Fatura\bin\itextsharp.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\E-Fatura.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\E-Fatura.pdb
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.Core.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\EntityFramework.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\ExcelLibrary.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\itextsharp.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\System.Web.Providers.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\EntityFramework.xml
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.Core.xml
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\obj\Debug\E-Fatura.csprojResolveAssemblyReference.cache
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\obj\Debug\E-Fatura.dll
+C:\Users\süleyman\Desktop\E-Fatura\E-Fatura\obj\Debug\E-Fatura.pdb
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\E-Fatura.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\E-Fatura.pdb
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.Core.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\EntityFramework.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\ExcelLibrary.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\itextsharp.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\System.Web.Providers.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\EntityFramework.xml
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.Core.xml
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\obj\Debug\E-Fatura.csprojResolveAssemblyReference.cache
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\obj\Debug\E-Fatura.dll
+C:\Users\seymasg55\Desktop\E-Fatura\E-Fatura\obj\Debug\E-Fatura.pdb
